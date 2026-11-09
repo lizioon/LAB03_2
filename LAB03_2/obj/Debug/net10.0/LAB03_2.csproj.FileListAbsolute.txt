@@ -1,0 +1,14 @@
+D:\c++\ConsoleApp1\LAB03_2\bin\Debug\net10.0\LAB03_2.exe
+D:\c++\ConsoleApp1\LAB03_2\bin\Debug\net10.0\LAB03_2.deps.json
+D:\c++\ConsoleApp1\LAB03_2\bin\Debug\net10.0\LAB03_2.runtimeconfig.json
+D:\c++\ConsoleApp1\LAB03_2\bin\Debug\net10.0\LAB03_2.dll
+D:\c++\ConsoleApp1\LAB03_2\bin\Debug\net10.0\LAB03_2.pdb
+D:\c++\ConsoleApp1\LAB03_2\obj\Debug\net10.0\LAB03_2.GeneratedMSBuildEditorConfig.editorconfig
+D:\c++\ConsoleApp1\LAB03_2\obj\Debug\net10.0\LAB03_2.AssemblyInfoInputs.cache
+D:\c++\ConsoleApp1\LAB03_2\obj\Debug\net10.0\LAB03_2.AssemblyInfo.cs
+D:\c++\ConsoleApp1\LAB03_2\obj\Debug\net10.0\LAB03_2.csproj.CoreCompileInputs.cache
+D:\c++\ConsoleApp1\LAB03_2\obj\Debug\net10.0\LAB03_2.dll
+D:\c++\ConsoleApp1\LAB03_2\obj\Debug\net10.0\refint\LAB03_2.dll
+D:\c++\ConsoleApp1\LAB03_2\obj\Debug\net10.0\LAB03_2.pdb
+D:\c++\ConsoleApp1\LAB03_2\obj\Debug\net10.0\LAB03_2.genruntimeconfig.cache
+D:\c++\ConsoleApp1\LAB03_2\obj\Debug\net10.0\ref\LAB03_2.dll
