@@ -7,7 +7,7 @@ namespace LAB03_2 { internal class Program { static void Main(string[] args) { C
         double c = double.Parse(Console.ReadLine());
 
         double perimeter = a + b + c;
-        double p = perimeter / 2 ;
+        double p = perimeter / 2.0;
         double area = Math.Sqrt(p * (p - a) * (p - b) * (p - c));
 
         Console.WriteLine($"Периметр: {perimeter}");
